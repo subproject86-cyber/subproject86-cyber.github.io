@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { GraduationCap, Phone } from 'lucide-react';
 import profile1 from '../assets/Profile/1.jpg';
-import profile2 from '../assets/Profile/2.png';
+import profile2 from '../assets/Profile/2.jpg';
 
 const About = () => {
     const team = [
